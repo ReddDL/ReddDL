@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **redeleon.dev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yvO2uqTYi9ZfXlrn6149wHM0K6JpkAxp/view?usp=sharing](https://drive.google.com/file/d/1yvO2uqTYi9ZfXlrn6149wHM0K6JpkAxp/view?usp=sharing)
+- 📄 Know about my experiences [bit.ly/ReddDL-Resume](bit.ly/ReddDL-Resume)
 
 - ⚡ Fun fact **I like custom mechanical keyboards and apple products**
 
