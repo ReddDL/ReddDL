@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Redd!</h1>
 <h3 align="center">A Junior BS Computer Science Student at the University of the Philippines - Los Baños</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me **redeleon.dev@gmail.com**
 
-- 📄 Know about my experiences [bit.ly/ReddDL-Resume](bit.ly/ReddDL-Resume)
+- 📄 Know about my experiences [bit.ly/ReddDL-Resume](rebrand.ly/redeleon-resume)
 
 - ⚡ Fun fact **I like custom mechanical keyboards and apple products**
 
