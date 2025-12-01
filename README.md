@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Redd!</h1>
-<h3 align="center">A Junior BS Computer Science Student at the University of the Philippines - Los Baños</h3>
+<h3 align="center">A Senior BS Computer Science Student at the University of the Philippines - Los Baños</h3>
 
 - 🌱 I’m currently learning **AWS**
 
